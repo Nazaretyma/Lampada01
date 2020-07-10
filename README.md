@@ -1,0 +1,2 @@
+# Lampada01
+Light
